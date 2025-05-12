@@ -79,3 +79,7 @@ O dataset utilizado neste projeto contém informações sobre clientes de uma em
 - **Tenure**: É uma das variáveis mais importantes, pois está diretamente relacionada ao tempo de fidelidade do cliente com a empresa. Clientes com maior tenure tendem a ter menor churn.
 - **Contract**: Clientes com contratos mensais possuem maior risco de churn em comparação com os clientes com contratos anuais ou bianuais.
 - **MonthlyCharges**: Este campo pode ser um bom indicador de churn, visto que valores elevados estão relacionados a uma maior probabilidade de cancelamento.
+
+### Link para o Dashboard no Streamlit:
+
+https://churntelecom.streamlit.app/
